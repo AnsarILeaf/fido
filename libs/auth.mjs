@@ -349,8 +349,8 @@ router.post('/registerResponse', csrfCheck, sessionCheck, async (req, res) => {
     const verification = await verifyRegistrationResponse({
       response: body,
       expectedChallenge,
-      expectedOrigin,
-      expectedRPID,
+      // expectedOrigin,
+      // expectedRPID,
     });
 
     const { verified, registrationInfo } = verification;
