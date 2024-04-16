@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "username": "dfse",
+      "id": "cNpXTIYhiQw4_1DUPtmwEkXycZXHHuIZcr00rt8cZnk",
+      "credentials": []
+    },
+    {
+      "username": "Ok",
+      "id": "ZAkqhCYPaccs8CqwgiSpfEuXqQj6Cnqw-ZbJh0YRNLY",
+      "credentials": [
+        {
+          "publicKey": "pQECAyYgASFYIL0BjOOC8RlavC7sRt88siEC_4pgk42sEC8Svpkr6DHRIlggOhLQG4U-v4cm5h3h8jD6kMMGMTA8WlrCaMFyiltDaaU",
+          "credId": "SeRlnuQUkbKpVq7dcFgKFqDS-UY",
+          "prevCounter": 0
+        }
+      ]
+    }
+  ],
+  "credentials": []
+}
